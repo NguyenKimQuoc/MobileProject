@@ -8,3 +8,12 @@
 - Hiển thị nhiệt độ, độ ẩm không khí và độ ẩm đất.
 - Set thời gian bật tắt thiết bị, hẹn giờ 
 - Thêm hoặc xóa cây trồng.
+
+# Database:
+- Set bảng database local (Xampp), MySQL
+- Lưu trạng thái thiết bị
+- Lưu thông tin nhiệt độ, độ ẩm không khí, độ ẩm đất
+
+# Server:
+- Là nơi giao tiếp giữa phần cứng, web, app và database
+- Phát triển dựa NodeJS
